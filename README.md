@@ -14,7 +14,8 @@ Mayra Keyla Maurilio
 <p>
     Sistema desenvolvido para o projeto interdisciplinar do 2° semestre do curso de Analise e Desenvolvimento de Sistemas, desenvolvido em grupo com envolvimento nas materias de Técnicas de Desenvolvimento de Algoritmos, ensinado pelo <strong>Professor Luciano Rossi</strong>, e Programação Orientada a Objetos voltado a Java, ensinado pelo <strong>Professor Cesar Torres Fernandes</strong>
 </p>
-<p>
     <strong>Funcionalidade</strong>
+<p>
+    
     Um sistema que cria pedidos de venda para papelaria, e devolve consultas de pedidos de venda feitos, objetivo apenas para aprendizado
 </p>
